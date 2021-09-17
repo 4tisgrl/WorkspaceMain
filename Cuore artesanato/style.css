@@ -1,0 +1,228 @@
+body {
+  background-color: rgb(235, 218, 204);
+}
+
+.cliks {
+font-family: Courier;
+color: rgb(104, 55, 55);
+align-items: center;
+font-size: 18px;
+margin:auto;
+}
+
+.button {
+  height:750px;
+  weight: 230px;
+  color: rgb(235, 218, 204)
+  text-color:rgb(104, 55, 55)
+  font-family: Courier;
+  margin-left: 200px;
+  margin:auto;
+
+} 
+
+.conteudo {
+  height:960px;
+  margin:auto;
+}
+
+.image {
+  image-rendering: auto;
+  height: 800px;
+  width: 500;
+  display: table-cell;
+  float:left;
+}
+
+.texto {
+  font-family: courier;
+  text-color: rgb(104, 55, 55);
+  display: table-cell;
+  float:left;
+  weight: 300px;
+  margin-top: -20px;
+  margin-left: 20px;
+
+}
+
+.fieldset {
+  width: 746px;
+  height: 132px;
+  font-family: courier;
+  font: size 16px;
+  color: rgb(104, 55, 55); 
+  margin-left: 70px;
+  padding: 6 px 12px 10px
+}
+
+.main {
+    border-color: rgb(235, 218, 204)
+    background-image: url("about-filiale-1.jpg")
+  }
+
+  .div-nav{
+    width: 1220px;
+    height: 1000px;
+    background-color: rgb(235, 218, 204);
+    color: rgb(104, 55, 55);
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    border: 5px solid gray;
+    margin:auto;
+
+  }
+  
+  .flex-main {
+      width: 500px;
+      height: 500px;
+      display: flex;      
+      flex-wrap: wrap;    
+      flex-direction: row;
+      justify-content: space-around;    
+      
+  }
+  .child-main {
+      border: 1px solid black;
+      width: 20px;
+      height: 15px;
+      display: flex;
+      justify-content: space-between;  
+  }
+ 
+
+
+  .flex-div {
+      width: 500px;
+      height: 500px;
+      display: flex;      
+      flex-wrap: wrap;    
+      flex-direction: row;
+      justify-content: space-around;    
+      
+  }
+  .child-div {
+      border: 1px solid #FFFF;
+      width: 20px;
+      height: 15px;
+      display: flex;
+      justify-content: space-between;  
+  }
+ 
+
+
+  .flex-div {
+      width: 500px;
+      height: 500px;
+      display: flex;      
+      flex-wrap: wrap;    
+      flex-direction: row;
+      justify-content: space-around;    
+      
+  }
+  .child-div {
+      border: 1px solid #FFFF;
+      width: 20px;
+      height: 15px;
+      display: flex;
+      justify-content: space-between;  
+  }
+ 
+
+;
+    
+    
+  }
+
+  .container {
+    height: 25px;
+    width: 320px;
+    border: 10px;
+    border: 1px solid rgb(235, 218, 204);
+    background-color: rgb(235, 218, 204);
+    font-family: courier;
+    font-size-adjust: unset;
+    color:rgb(104, 55, 55)    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+   
+
+   
+  
+  }
+
+  
+  .flex-div {
+      width: 500px;
+      height: 500px;
+      display: flex;      
+      flex-wrap: wrap;    
+      flex-direction: row;
+      justify-content: space-around;
+      margin: auto;
+      
+  }
+  .child-div {
+      border: 1px solid black;
+      width: 20px;
+      height: 15px;
+      display: flex;
+      justify-content: space-between;  
+  }
+ 
+
+
+  .boxmodel1 {
+    width: 1220px;
+    height: 1000px;
+    background: rgb(235, 218, 204);
+    color: rgb(104, 55, 55);
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+   
+  }
+
+  
+ 
+
+  .my-div {
+    height: 120px;
+    width: 120px;
+    border: 500px;
+    border: 1px solid rgb(235, 218, 204);
+    background-color: rgb(235, 218, 204);
+    font-family: courier;   
+    display: grid;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+  }
+  .logodiv {
+    height: 120px;
+    width: 600px;
+    border: 500px;
+    border: 1px solid rgb(235, 218, 204);
+    background-color: rgb(235, 218, 204);
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin:auto;
+  }
+
+
+
+  <!--Fontes-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Homemade+Apple&display=swap" rel="stylesheet">
+      
